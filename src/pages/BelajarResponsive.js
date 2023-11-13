@@ -9,10 +9,10 @@ export const BelajarResponsive = () => {
         </div>
       </div>
       <div className="w-full h-5/6 web:flex flex-row">
-        <div className="bg-purple-600 text-3xl w-3/5  mr-5 justify-center items-center hidden web:flex">
+        <div className="bg-purple-600 text-3xl w-3/5  mr-3 justify-center items-center hidden web:flex">
           Ungu
         </div>
-        <div className="flex flex-col w-full h-full gap-5 tablet:flex-col-reverse  ">
+        <div className="flex flex-col w-full h-full gap-3 tablet:flex-col-reverse  ">
           <div className="bg-purple-600 w-full h-2/6 flex justify-center items-center text-3xl web:hidden">
             Ungu
           </div>
